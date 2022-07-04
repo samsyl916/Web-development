@@ -45,6 +45,7 @@ hr {
 
 a {
   color: #7D9D9C;
+  text-decoration: none;
 }
 
 p {
@@ -85,7 +86,7 @@ p {
 .footer-linker {}
 
 .contact-me {
-  padding-bottom: 50px;
+  padding-bottom: 110px;
 }
 
 .btn {
@@ -103,6 +104,8 @@ p {
   font-size: 20px;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
+  position: relative;
+  top: 40px;
 }
 
 .btn:hover {
